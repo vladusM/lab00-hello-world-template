@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main() {
-    // Code here
+    // Write your solution here.
 }
