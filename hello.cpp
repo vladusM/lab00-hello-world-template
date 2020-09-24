@@ -1,5 +1,6 @@
 #include <iostream>
 
 int main() {
-    // Write your solution here.
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
 }
